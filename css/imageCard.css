@@ -1,6 +1,6 @@
 .link-card {
     list-style: none;
-    width: 250px;
+    min-width: 300px;
     height: 350px;
     display: flex;
     padding: 1px;
@@ -14,8 +14,7 @@
 }
 
 .link-card img {
-    width: 80%;
-
+    width: 60%;
     height: auto;
     margin-left: 10px;
     margin-right: auto;
