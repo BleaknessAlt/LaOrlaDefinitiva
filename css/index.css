@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    background-image: url('../assets/images/imagenFondo.jpg');
 
 }
 main {
@@ -18,7 +19,7 @@ main {
     align-items: center;
     justify-content: center;
     grid-template-columns: repeat(5, 1fr);
-    grid-gap: 10px; /* Ajusta este valor para cambiar el espacio entre las imágenes */
+    grid-gap: 10px;
     justify-content: center;
     gap: 1rem;
 }
