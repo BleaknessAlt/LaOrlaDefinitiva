@@ -49,6 +49,12 @@ h1 {
     text-align: center;
     margin-bottom: 1em;
 }
+
+.tester{
+    display: flex;
+    justify-content: space-around !important;
+}
+
 .text-gradient {
     background-image: var(--accent-gradient);
     -webkit-background-clip: text;
